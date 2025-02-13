@@ -1,0 +1,12 @@
+{
+  "appId": "com.jogja360.virtualtourmuseumugm",
+  "appName": "Virtual Tour Museum UGM",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "backgroundColor": "#343434",
+  "ios": {
+  	"contentInset":"always"
+  }
+}

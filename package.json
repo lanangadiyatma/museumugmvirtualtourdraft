@@ -1,0 +1,10 @@
+{
+  "name": "Virtual Tour Museum UGM",
+  "version": "1.0.0",
+  "description": "Selamat Datang di Virtual Tour 360° Museum Universitas Gadjah Mada",
+  "main": "main.js",
+  "author": "administrator",
+  "scripts": {
+    "start": "electron ."
+  }
+}
